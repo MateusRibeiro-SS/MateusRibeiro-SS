@@ -1,16 +1,22 @@
-### Hi there 👋
+## Mateus Ribeiro (zTeusma)
 
-<!--
-**MateusSantoss/MateusSantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Prazer, me chamo Mateus sou estudante de T.I e nas horas vagas... estudante de T.I hehe.
+  - Atualmente estudando Java e tecnologias relacionadas a back-end mas tenho planos para me tornar full stack.
+  - Estudante de Sistema de Informação UFRA.
+  - Aficionado por jogos e cochilos de 30 minutos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MateusRibeiro-SS&show_icons=true&theme=merko"/>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibeiro-SS&theme=merko"/>
+  
+</div>
+
+<div style="display: inline_block">
+  <img allign="center" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+</div>
+
+<div>
+  <a href="https://twitter.com/ZTeusma" target="blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="blank_"<a/>
+</div>
