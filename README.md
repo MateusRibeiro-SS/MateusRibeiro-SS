@@ -17,6 +17,3 @@
   <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 </div>
 
-<div>
-  <a href="https://twitter.com/ZTeusma" target="blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="blank_"<a/>
-</div>
