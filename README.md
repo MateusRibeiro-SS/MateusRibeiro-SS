@@ -6,7 +6,7 @@
   - Aficionado por jogos e cochilos de 30 minutos.
 
 
-<div>
+<div style="display: inline_block">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MateusRibeiro-SS&show_icons=true&theme=merko"/>
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibeiro-SS&theme=merko"/>
   
