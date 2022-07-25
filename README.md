@@ -18,5 +18,4 @@
   <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 </div>
 
-teste
 
