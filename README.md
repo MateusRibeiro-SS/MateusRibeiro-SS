@@ -3,7 +3,7 @@
   Me chamo Mateus, sou estudante de T.I e nas horas vagas... estudante de T.I (sem tempo irmão).
   - Atualmente estudando Java e tecnologias relacionadas a back-end mas tenho planos para me tornar full stack.
   - Estudante de Sistema de Informação UFRA.
-  - Aficionado por jogos e cochilos de 30 minutos.
+ 
 
 
 <div>
